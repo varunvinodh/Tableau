@@ -4,7 +4,6 @@ While working in the tableau file I observed that the number of doctors availabl
 And in Sheet1 we could see that the most of the cases are in the gynaecology department, 
 so having sufficient Nurses and doctors according to the required department would make a huge impact.
 
-
 I could also see that the number of leave applications were very high sometimes and the number of available nurses were 
 very less. 
 So, creating a well-balanced leave schedule for each of the working staffs would make a huge impact in the time of needs. 
